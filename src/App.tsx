@@ -20,7 +20,8 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gray-950 text-white p-6">
-      <h1 className="text-4xl font-bold mb-4">🛸 Alien Radar Command Decoder</h1>
+      <h1 className="text-4xl font-bold mb-4">Alien Radar Decoder</h1>
+      <h4 className="text-4xl font-bold mb-4">Development By ThePilotDev.</h4>
       <p className="mb-4 text-gray-400">Upload radar scan file (.in) to decode ship centers</p>
       <input type="file" accept=".in" onChange={handleFile} className="mb-6" />
 
