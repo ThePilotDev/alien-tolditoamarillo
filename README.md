@@ -7,3 +7,4 @@ Este proyecto es una solución al reto técnico de detectar y visualizar centros
 1. Haz clic en “Seleccionar archivo” y sube un archivo `.in` con la estructura especificada.
 2. La app procesará las naves una por una.
 3. Se mostrarán los centros detectados, sus coordenadas escaladas y sus áreas.
+
